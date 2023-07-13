@@ -1,5 +1,5 @@
 # LockScreenKotlinExample
-kotlin으로 구현한 안드로이드 잠금화면 Example (Oreo 대응)
+kotlin으로 구현한 안드로이드 잠금화면 및 스마트미러 메인 화면
 
 
 <p />
